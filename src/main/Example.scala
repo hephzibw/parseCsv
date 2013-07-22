@@ -1,1 +1,1 @@
-Object Main extends App { Console.println("Hello World!") }
+Object Main extends App { Console.println("Hello ---------------------------------- World!") }
